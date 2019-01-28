@@ -3,4 +3,4 @@
   hosts: all
 
   roles:
-    - hello-world
+  - hello-world
