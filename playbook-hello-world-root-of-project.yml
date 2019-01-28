@@ -1,0 +1,6 @@
+---
+- name: run hello-world role from requirements.yml
+  hosts: all
+
+  roles:
+    - role-hello-world
