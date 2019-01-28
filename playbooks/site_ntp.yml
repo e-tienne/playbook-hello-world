@@ -1,6 +1,0 @@
----
-- name: deploy common (ntp) role
-  hosts: all
-
-  roles:
-  - common
